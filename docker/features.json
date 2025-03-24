@@ -1,0 +1,12 @@
+[
+  {
+    "id" : 1,
+    "name" : "Plan Feature",
+    "enabled" : true
+  },
+  {
+    "id" : 2,
+    "name" : "Customer Feature",
+    "username" : false
+  }
+]
